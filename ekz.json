@@ -1,0 +1,22 @@
+{
+    "version": "0.0.6",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/chanwit/ekz/releases/download/v0.0.6/ekz_0.0.6_windows_386.zip",
+            "bin": [
+                "ekz.exe"
+            ],
+            "hash": "5bde1e00332752be8b2e1176062b00969be53cbafa52a8070254ec89ec80d370"
+        },
+        "64bit": {
+            "url": "https://github.com/chanwit/ekz/releases/download/v0.0.6/ekz_0.0.6_windows_amd64.zip",
+            "bin": [
+                "ekz.exe"
+            ],
+            "hash": "79a03fe12ae31f08cb79bc3f64be947a454a4aac3c2489234c71a8c85681d4d0"
+        }
+    },
+    "homepage": "https://github.com/chanwit/ekz/",
+    "license": "Apache 2.0",
+    "description": "The command line for EKZ, an EKS-D Kubernetes distro."
+}
