@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/chanwit/ekz/releases/download/v0.3.0/ekz_0.3.0_windows_386.zip",
+            "url": "https://github.com/chanwit/ekz/releases/download/v0.3.1/ekz_0.3.1_windows_386.zip",
             "bin": [
                 "ekz.exe"
             ],
-            "hash": "3ec8d2e8ac773da494876682cdb56e824d7919d0d0bc44b5fbdd46f0ab785e2e"
+            "hash": "ed6ff601b368b2f03aa361189a52d0fd76427bfec4d28234f71ea2f57d4e76b6"
         },
         "64bit": {
-            "url": "https://github.com/chanwit/ekz/releases/download/v0.3.0/ekz_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/chanwit/ekz/releases/download/v0.3.1/ekz_0.3.1_windows_amd64.zip",
             "bin": [
                 "ekz.exe"
             ],
-            "hash": "3df7b9016b4c97b604d4bdebd0f913d6a39faefbf59ca932f7503b81b85d76f1"
+            "hash": "59467ec5d27e866c8f7d3cc1df7fd9e231e6561a2efcd3d30991fac7ffd53db8"
         }
     },
     "homepage": "https://github.com/chanwit/ekz/",
